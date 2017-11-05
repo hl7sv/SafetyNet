@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Lin\\AndroidStudioProjects\\echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_discover.png",
+        "source": "C:\\Users\\Lin\\AndroidStudioProjects\\echo\\app\\src\\main\\res\\drawable-ldpi\\ic_action_discover.png"
+    },
+    {
+        "merged": "C:\\Users\\Lin\\AndroidStudioProjects\\echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_on_off.png",
+        "source": "C:\\Users\\Lin\\AndroidStudioProjects\\echo\\app\\src\\main\\res\\drawable-ldpi\\ic_action_on_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Lin\\AndroidStudioProjects\\echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lin\\AndroidStudioProjects\\echo\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lin\\AndroidStudioProjects\\echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Lin\\AndroidStudioProjects\\echo\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
